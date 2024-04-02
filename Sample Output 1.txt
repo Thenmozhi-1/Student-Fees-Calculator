@@ -1,0 +1,17 @@
+Enter Student Id
+45
+Enter Student name
+Arun
+Enter Department name
+ECE
+Enter gender
+Male
+Enter category
+DayScholar
+Enter College fee
+70000
+Enter Bus number
+7
+Enter the distance
+19
+Total College fee is 82000.0
